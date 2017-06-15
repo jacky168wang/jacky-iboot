@@ -1,0 +1,1 @@
+TESTS_OBJ=$(addprefix ./devices/nor/, cs_amd.o)

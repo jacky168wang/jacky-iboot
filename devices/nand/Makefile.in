@@ -1,0 +1,2 @@
+TESTS_OBJ=$(addprefix ./devices/nand/, nand_test.o)
+#TESTS_OBJ=$(addprefix ./devices/nand/, nand_ecc.o nand_test.o)
